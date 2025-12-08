@@ -29,10 +29,10 @@
   "dependencies": {
     "@flowcore/pathways": "^0.16.3",
     "autoprefixer": "^10.4.20",
-    "next": "15.3.5",
+    "next": "15.4.8",
     "pg": "^8.16.3",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "19.0.1",
+    "react-dom": "19.0.1",
     "react-is": "^19.1.0",
     "recharts": "^3.0.2",
     "short-uuid": "^5.2.0",
@@ -42,7 +42,6 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-
     "@testing-library/jest-dom": "^6.6.3",
     "@types/jest": "^30.0.0",
     "@types/node": "^20",
@@ -51,7 +50,7 @@
     "@types/react-dom": "^19",
     "@types/uuid": "^10.0.0",
     "eslint": "^9",
-    "eslint-config-next": "15.3.5",
+    "eslint-config-next": "15.4.8",
     "jest": "^30.0.4",
     "jest-environment-jsdom": "^30.0.4",
     "ts-jest": "^29.4.0",
